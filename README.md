@@ -1,11 +1,9 @@
 ### Hi, I'm Ernest Gaisie 👋
 
-- 🔭 I’m currently working on ViuHealth Mobile Application (iOS,Flutter & Dart)
+- 🔭 I’m currently working on ViuHealth Mobile Application (iOS, Cross-Platform)
 - 🌱 I’m currently learning Data Science technologies, looking to collaborate on more projects
-- 🌱 And currently learning Advanced Flutter, iOS, NextJS & React JS
 - 👯 I’m looking to collaborate on Mobile and Web applications
-- 🤔 I’m looking for help with Fingerprint image scanning on Flutter
-- 💬 Ask me about Flutter, iOS, React JS or any tech related stuff
+- 💬 Ask me about React Native, Flutter, iOS, React JS or any tech related stuff
 - 📫 How to reach me: [Twitter - @GaisieBoamah](https://twitter.com/GaisieBoamah) , [Linkedln - Ernest Boamah Gaisie](https://www.linkedin.com/in/ernest-boamah-gaisie-13219b166/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm the best gamer in the world
